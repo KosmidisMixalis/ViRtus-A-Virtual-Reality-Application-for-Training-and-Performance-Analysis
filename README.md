@@ -30,8 +30,20 @@ For access to the application, please contact the authors via email.
 
 If our work has helped you, please consider citing:
 
+```bibtex
 
+@INPROCEEDINGS{10759201,
+  author={Kosmidis, Michail and Antoniou, Sarantis and Balaska, Vasiliki and Kansizoglou, Ioannis and Gasteratos, Antonios},
+  booktitle={2024 IEEE International Conference on Imaging Systems and Techniques (IST)}, 
+  title={Towards Warehouse 5.0: A Framework of Human-Centered Technologies}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Wireless communication;Industries;Supply chains;Imaging;Virtual reality;Industrial robots;Telecommunications;Personnel;Low latency communication;Fifth Industrial Revolution;Augmented Reality;Virtual Reality;5G technology;Warehouse 5.0;vertical industries},
+  doi={10.1109/IST63414.2024.10759201}}
 
+```
 If you used Unity, Blender or Meta XR All-in-One SDK please consider citing:
 
 ```bibtex
