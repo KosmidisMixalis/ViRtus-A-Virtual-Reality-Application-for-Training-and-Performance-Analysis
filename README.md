@@ -9,7 +9,7 @@ ViRtus is a Virtual Reality (VR) application designed for training and performan
 - **Unity** (Game Development Platform)
 - **Blender** (3D Modeling and Rendering)
 - **Meta XR All-in-One SDK** (VR Development)
-- **C# programming language
+- **C#** programming language
 - Python programming language
 
 ## Acknowledgments
