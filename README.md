@@ -30,6 +30,10 @@ For access to the application, please contact the authors via email.
 
 If our work has helped you, please consider citing:
 
+
+
+If you used Unity, Blender or Meta XR All-in-One SDK please consider citing:
+
 ```bibtex
 @misc{unity,
   author = {{Unity Technologies}},
