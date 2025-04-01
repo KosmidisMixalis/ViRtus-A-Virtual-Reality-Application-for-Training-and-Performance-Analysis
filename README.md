@@ -9,6 +9,7 @@ ViRtus is a Virtual Reality (VR) application designed for training individuals i
 
 We conducted an experimental study assessing results and showcasing the impact of our application. Using beta testers, qualitative assessments from questionnaires, and practical experiments with end users, we concluded that a hybrid training method—combining a trainer with the VR application as a supplementary tool—can improve users’ skills, effectively leading to a more productive and sustainable workplace while reducing the trainer’s interaction time with the trainee.
 
+## Video:
 
 <a href="https://www.youtube.com/watch?v=ec9R-HtQj-c">
   <img src="https://img.youtube.com/vi/ec9R-HtQj-c/0.jpg" width="300px">
