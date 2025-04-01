@@ -4,6 +4,8 @@
 
 ViRtus is a Virtual Reality (VR) application designed for training and performance analysis. Developed using open-source tools and frameworks, it aims to enhance immersive training experiences through advanced VR technologies.
 
+##Authors: Michail Kosmidis, Ioannis Kansizoglou, and Antonios Gasteratos
+
 [![Watch the video](https://img.youtube.com/vi/ec9R-HtQj-c/0.jpg)](https://www.youtube.com/watch?v=ec9R-HtQj-c)
 
 ## Technologies Used
