@@ -1,5 +1,7 @@
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
 
+![510ffae5150da110dfa16f8d4b575b24e226efe2](https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59)
+
 ## Overview
 
 ViRtus is a Virtual Reality (VR) application designed for training individuals in constructing an electrical control panel. It tracks users' movements and exports their performance metrics into a `.txt` file for statistical analysis using Python. Developed with open-source tools and frameworks, ViRtus enhances immersive training through advanced VR technologies, Human-Computer Interaction (HCI), and Serious Game - Gamification techniques.
