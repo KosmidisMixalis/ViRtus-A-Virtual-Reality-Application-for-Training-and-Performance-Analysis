@@ -20,7 +20,7 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 
 🔗 [Lab Website](https://robotics.pme.duth.gr)
 
-![Research Image](https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c)
+<img src="https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c" width="300px">
 
 ## Software Used for VR Application
 
