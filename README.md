@@ -1,6 +1,6 @@
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
 
-![510ffae5150da110dfa16f8d4b575b24e226efe2](https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59)
+![510ffae5150da110dfa16f8d4b575b24e226efe2](https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59){:width="300px"}
 
 ## Overview
 
@@ -20,7 +20,7 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 
 🔗 [Lab Website](https://robotics.pme.duth.gr)
 
-![Research Image](https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c)
+![Research Image](https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c){:width="300px"}
 
 ## Software Used for VR Application
 
