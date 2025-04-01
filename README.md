@@ -27,7 +27,7 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 - **Meta XR All-in-One SDK** – VR Development
 - **C#** – Programming Language
 
-## Software Used for Statistical Analysis of Data
+## Software & Libraries Used for Statistical Analysis of Data
 
 - **Python** – Programming Language
 - **math** – Mathematical computations
@@ -35,20 +35,6 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 - **pandas** – Data manipulation and analysis
 - **Anaconda (conda)** – Package management
 - **Spyder** – Python IDE
-
-## Installation and Usage
-
-### Clone the Repository
-```sh
-git clone https://github.com/yourusername/ViRtus.git
-```
-
-### Open in Unity
-
-1. Install **Unity Hub** and **Unity Engine**.
-2. Open the project using Unity Hub.
-3. Ensure VR SDKs are installed.
-4. Run the application in play mode.
 
 ## Ethical Considerations
 
