@@ -1,6 +1,6 @@
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
 
-![510ffae5150da110dfa16f8d4b575b24e226efe2](https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59)
+<img src="https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59" width="300px">
 
 ## Overview
 
