@@ -1,6 +1,8 @@
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
 
-<img src="https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59" width="300px">
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59" width="300px">
+</div>
 
 ## Overview
 
@@ -8,7 +10,11 @@ ViRtus is a Virtual Reality (VR) application designed for training individuals i
 
 We conducted an experimental study assessing results and showcasing the impact of our application. Using beta testers, qualitative assessments from questionnaires, and practical experiments with end users, we concluded that a hybrid training method—combining a trainer with the VR application as a supplementary tool—can improve users’ skills, effectively leading to a more productive and sustainable workplace while reducing the trainer’s interaction time with the trainee.
 
-[![Watch the video](https://img.youtube.com/vi/ec9R-HtQj-c/0.jpg)](https://www.youtube.com/watch?v=ec9R-HtQj-c)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=ec9R-HtQj-c">
+    <img src="https://img.youtube.com/vi/ec9R-HtQj-c/0.jpg" width="300px">
+  </a>
+</div>
 
 ## Authors
 
@@ -20,7 +26,9 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 
 🔗 [Lab Website](https://robotics.pme.duth.gr)
 
-<img src="https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c" width="300px">
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/8be25327-b873-42f0-b2c3-851ff91c8d9c" width="300px">
+</div>
 
 ## Software Used for VR Application
 
@@ -53,7 +61,9 @@ We express our gratitude to the beta testers and end users for their time and pa
 ### Funding
 The project **TAEDR-0535864** "Network of Excellence for the Development, Dissemination, and Application of Digital Transformation Technologies in the Greek Manufacturing Industry" is carried out within the framework of the **National Recovery and Resilience Plan Greece 2.0**, funded by the **European Union - NextGenerationEU**.
 
-![image](https://github.com/user-attachments/assets/d2add64a-15c1-440c-be6f-bc43509de7c7)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/d2add64a-15c1-440c-be6f-bc43509de7c7" width="300px">
+</div>
 
 ## Access to the Application
 
