@@ -50,6 +50,7 @@ We express our gratitude to the beta testers and end users for their time and pa
 
 ### Funding
 The project **TAEDR-0535864** "Network of Excellence for the Development, Dissemination, and Application of Digital Transformation Technologies in the Greek Manufacturing Industry" is carried out within the framework of the **National Recovery and Resilience Plan Greece 2.0**, funded by the **European Union - NextGenerationEU**.
+![Label_Program](https://github.com/user-attachments/assets/74a69ad3-049e-4bbe-8da9-be687e2610a7)
 
 ## Access to the Application
 
