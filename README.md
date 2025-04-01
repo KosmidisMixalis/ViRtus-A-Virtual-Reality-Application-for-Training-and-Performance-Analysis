@@ -53,8 +53,6 @@ This work involved human subjects in its research. Approval of all ethical and e
 
 This research utilized open-source tools and models. The authors gratefully acknowledge the contributions of the open-source community for providing these resources.
 
-The application was created solely for academic research and demonstration purposes. Its use is restricted to this study and will not extend to any commercial or non-academic applications.
-
 We express our gratitude to the beta testers and end users for their time and participation in the experimental study. Your dedication and support have been essential to the completion of this project.
 
 ### Funding
@@ -68,6 +66,11 @@ The project **TAEDR-0535864** "Network of Excellence for the Development, Dissem
 For access to the application, please contact the authors via email.
 
 📧 **Email:** [mkosmidi@pme.duth.gr](mailto:mkosmidi@pme.duth.gr)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+With the limitation of: The application was created solely for academic research and demonstration purposes. Its use is restricted to this study and will not extend to any commercial or non-academic applications.
 
 ## Citation
 
