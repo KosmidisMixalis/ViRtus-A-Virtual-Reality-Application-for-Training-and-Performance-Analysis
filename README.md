@@ -65,14 +65,14 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 This work involved human subjects in its research. Approval of all ethical and experimental procedures and protocols was granted by the **Research Ethics Committee**.
 
 ## Acknowledgments
-
+<p>
 This research utilized open-source tools and models. The authors gratefully acknowledge the contributions of the open-source community for providing these resources.
 
 We express our gratitude to the beta testers and end users for their time and participation in the experimental study. Your dedication and support have been essential to the completion of this project.
 
 ### Funding
 The project **TAEDR-0535864** "Network of Excellence for the Development, Dissemination, and Application of Digital Transformation Technologies in the Greek Manufacturing Industry" is carried out within the framework of the **National Recovery and Resilience Plan Greece 2.0**, funded by the **European Union - NextGenerationEU**.
-
+</p>
 <img src="https://github.com/user-attachments/assets/d2add64a-15c1-440c-be6f-bc43509de7c7" width="400px">
 
 
