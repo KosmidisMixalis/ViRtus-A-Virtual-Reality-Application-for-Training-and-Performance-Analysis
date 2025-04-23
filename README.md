@@ -21,7 +21,7 @@ Developed with open-source tools and frameworks, ViRtus enhances immersive train
 </p>
 <p>
 We conducted an experimental study assessing results and showcasing the impact of our application. 
-Using beta testers, qualitative assessments from questionnaires, and practical experiments with end users, we concluded that a hybrid training method—combining a trainer with the VR application as a supplementary tool—can improve users’ skills, effectively leading to a more productive and sustainable workplace while reducing the trainer’s interaction time with the trainee.
+Using beta testers, qualitative assess -ments from questionnaires, and practical experiments with end users, we concluded that a hybrid training method—combining a trainer with the VR application as a supplementary tool—can improve users’ skills, effectively leading to a more productive and sustainable workplace while reducing the trainer’s interaction time with the trainee.
 </p>
 
 ## Video:
