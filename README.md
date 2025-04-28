@@ -27,7 +27,7 @@ Using beta testers, qualitative assess -ments from questionnaires, and practical
 
 - **Michail Kosmidis**
 - **Ioannis Kansizoglou**
-- **rodromos Chatzoglou**
+- **Prodromos Chatzoglou**
 - **Antonios Gasteratos**
 
 The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)** and the **Department of Production and Management Engineering**, **Democritus University of Thrace, Xanthi 67100, Greece**.
