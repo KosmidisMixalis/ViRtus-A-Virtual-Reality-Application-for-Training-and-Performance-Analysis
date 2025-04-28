@@ -1,11 +1,3 @@
-<style>
-  p {
-    width: 100%;
-    max-width: 100%;
-    line-height: 1.6;
-    text-align: justify; /* Optional: for clean edge-to-edge text */
-  }
-</style>
 
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
 
