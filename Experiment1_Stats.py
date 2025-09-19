@@ -62,7 +62,7 @@ trainer_spent_time_G3 = ["17.2","18.05","21","18.16","13.52","14.52","12.50","16
 alpha = 0.05
 
 
-############################################# Std and Medians #############################################
+############################################# Std and Avgs #############################################
 
 
 print("\n################### Group1 ####################")
@@ -254,4 +254,5 @@ power_trainer_time = ttest_power(cohens_d_trainer_time, n_per_group_ttest)
 print(f"Power (Train Time, Kruskal-Wallis): {power_train_time:.3f} - Moderate power, risk of Type II error.")
 print(f"Power (Errors, Kruskal-Wallis): {power_errors:.3f} - High power, very low risk of Type II error.")
 print(f"Power (Completion Time, ANOVA): {power_completion_time:.3f} - Low power, may fail to detect true effect.")
+
 print(f"Power (Trainer Time, t-test): {power_trainer_time:.3f} - Extremely high, effect is robust.")
