@@ -88,19 +88,29 @@ With the limitation of: The application was created solely for academic research
 If our work has helped you, please consider citing:
 
 ```bibtex
-@INPROCEEDINGS{10759201,
+@inproceedings{kosmidis2024towards,
+  title={Towards Warehouse 5.0: A Framework of Human-Centered Technologies},
   author={Kosmidis, Michail and Antoniou, Sarantis and Balaska, Vasiliki and Kansizoglou, Ioannis and Gasteratos, Antonios},
-  booktitle={2024 IEEE International Conference on Imaging Systems and Techniques (IST)}, 
-  title={Towards Warehouse 5.0: A Framework of Human-Centered Technologies}, 
+  booktitle={2024 IEEE International Conference on Imaging Systems and Techniques (IST)},
+  pages={1--6},
   year={2024},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Wireless communication;Industries;Supply chains;Imaging;Virtual reality;Industrial robots;Telecommunications;Personnel;Low latency communication;Fifth Industrial Revolution;Augmented Reality;Virtual Reality;5G technology;Warehouse 5.0;vertical industries},
-  doi={10.1109/IST63414.2024.10759201}}
+  organization={IEEE}
+}
 
 ```
 
+```bibtex
+@inproceedings{kosmidis2025virtual,
+  title={Virtual Reality Application for Enhanced Cognitive Rehabilitation and Occupational Therapy},
+  author={Kosmidis, Michail and Kansizoglou, Ioannis and Balaska, Vasiliki and Psomoulis, Athanasios and Bratanov, Daniel and Gasteratos, Antonios},
+  booktitle={International Conference on Intelligent Tutoring Systems},
+  pages={64--69},
+  year={2025},
+  organization={Springer}
+}
+
+
+```
 ## Future Development
 
 - **Code Optimization:** Refactoring and improvements are ongoing.
