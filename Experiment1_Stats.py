@@ -8,7 +8,7 @@ from statsmodels.stats.power import FTestAnovaPower,TTestIndPower
 ########################## Helper Functions ##########################
 def standard_deviation(values):
     mean = sum(values) / len(values)
-    variance = sum((x - mean) ** 2 for x in values) / (len(values) - 1)
+    variance = sum((x - mean) ** 2 for x in values) / (len(values))
     return math.sqrt(variance)
 
 def convert_to_seconds(time_str):
@@ -256,3 +256,4 @@ print(f"Power (Errors, Kruskal-Wallis): {power_errors:.3f} - High power, very lo
 print(f"Power (Completion Time, ANOVA): {power_completion_time:.3f} - Low power, may fail to detect true effect.")
 
 print(f"Power (Trainer Time, t-test): {power_trainer_time:.3f} - Extremely high, effect is robust.")
+
