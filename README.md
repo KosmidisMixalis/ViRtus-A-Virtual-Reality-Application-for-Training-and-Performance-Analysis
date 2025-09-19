@@ -44,13 +44,17 @@ The authors are affiliated with the **Laboratory of Robotics & Automation (LRA)*
 - **C#** – Programming Language
 
 ## Software & Libraries Used for Statistical Analysis of Data
-
-- **Python** – Programming Language
-- **math** – Mathematical computations
-- **matplotlib** – Data visualization
-- **pandas** – Data manipulation and analysis
-- **Anaconda (conda)** – Package management
+- **Python** – Programming Language -
+- **scipy** – Statistical functions including Shapiro-Wilk, Levene, Kruskal-Wallis, t-tests, ANOVA -
+- **numpy** – Numerical computations and array manipulations -
+- **math** – Basic mathematical operations -
+- **pandas** – Data manipulation, cleaning, and analysis -
+- **matplotlib** – Data visualization and plotting -
+- **statsmodels** – Statistical modeling, ANOVA power analysis, Tukey HSD tests -
+- **scikit_posthocs** – Post-hoc non-parametric tests (Dunn’s test) -
+- **Anaconda (conda)** – Package management and environment control -
 - **Spyder** – Python IDE
+
 
 ## Ethical Considerations
 
