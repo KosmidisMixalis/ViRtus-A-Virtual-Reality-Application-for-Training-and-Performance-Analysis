@@ -80,17 +80,6 @@ With the limitation of: The application was created solely for academic research
 
 If our work has helped you, please consider citing:
 
-```bibtex
-@inproceedings{kosmidis2024towards,
-  title={Towards Warehouse 5.0: A Framework of Human-Centered Technologies},
-  author={Kosmidis, Michail and Antoniou, Sarantis and Balaska, Vasiliki and Kansizoglou, Ioannis and Gasteratos, Antonios},
-  booktitle={2024 IEEE International Conference on Imaging Systems and Techniques (IST)},
-  pages={1--6},
-  year={2024},
-  organization={IEEE}
-}
-
-```
 
 ```bibtex
 @inproceedings{kosmidis2025virtual,
