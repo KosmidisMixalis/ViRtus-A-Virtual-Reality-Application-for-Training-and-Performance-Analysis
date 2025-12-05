@@ -1,5 +1,15 @@
 
+<p align="center">
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
+</p>
+
+[![Unity](https://img.shields.io/badge/Unity-2023-blue?logo=unity)]
+[![VR](https://img.shields.io/badge/VR-Enabled-green?logo=vr)]
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)]
+[![C#](https://img.shields.io/badge/C%23-7.0-blue?logo=csharp)]
+[![Blender](https://img.shields.io/badge/Blender-2.8+-purple?logo=blender)]
+[![Meta-SDK-All-in-One](https://img.shields.io/badge/Meta%20SDK%20All%20in%20One-1.0-005596?logo=oculus)]
+
 
 <img src="https://github.com/user-attachments/assets/8a127a20-6ef7-451c-9930-6b0487453b59" width="400px">
 
