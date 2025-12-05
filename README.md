@@ -5,7 +5,7 @@
 [![VR](https://img.shields.io/badge/VR-Enabled-green?logo=vr)]
 [![Python](https://img.shields.io/badge/Python-3-blue?logo=python)]
 [![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)]
-[![Blender](https://img.shields.io/badge/Blender+-purple?logo=blender)]
+[![Blender](https://img.shields.io/badge/Blender-purple?logo=blender)]
 [![Meta-SDK-All-in-One](https://img.shields.io/badge/Meta%20SDK%20All%20in%20One-005596?logo=oculus)]
 
 
