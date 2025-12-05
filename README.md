@@ -1,7 +1,5 @@
 
-<p align="center">
 # ViRtus: A Virtual Reality Application for Training and Performance Analysis
-</p>
 
 [![Unity](https://img.shields.io/badge/Unity-2023-blue?logo=unity)]
 [![VR](https://img.shields.io/badge/VR-Enabled-green?logo=vr)]
