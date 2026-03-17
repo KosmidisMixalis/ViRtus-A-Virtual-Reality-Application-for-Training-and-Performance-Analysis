@@ -11,6 +11,7 @@ def standard_deviation(values):
     variance = sum((x - mean) ** 2 for x in values) / (len(values))
     return math.sqrt(variance)
 
+# Be careful lists data of time must be m.ss format
 def convert_to_seconds(time_str):
     if '.' in time_str:
         minutes, seconds = map(int, time_str.split('.'))
