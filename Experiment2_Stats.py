@@ -46,10 +46,10 @@ def anova_eta_squared(groups, all_data):
 
 # VR Train Time, Errors, Completion Time, Trainer Time
 real_world_completion_errors_G1_before = [1,0,3,3,0]
-real_world_completion_time_G1_before = ["12.39", "6.20", "14.34", "12.5", "10.20"]
+real_world_completion_time_G1_before = ["12.39", "6.20", "14.34", "12.50", "10.20"]
 
 real_world_completion_errors_G2_before = [0,0,0,0,0]
-real_world_completion_time_G2_before = ["6.5", "6.558", "6.29", "6.56", "8.08"]
+real_world_completion_time_G2_before = ["6.50", "6.58", "6.29", "6.56", "8.08"]
 
 real_world_completion_errors_G3_before = [0,3,0,0,3]
 real_world_completion_time_G3_before = ["9.58", "10.05", "12.55", "9.55", "10.54"]
