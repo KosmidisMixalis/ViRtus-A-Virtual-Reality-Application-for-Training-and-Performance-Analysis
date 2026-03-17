@@ -101,8 +101,3 @@ If our work has helped you, please consider citing:
 
 
 ```
-## Future Development
-
-- **Code Optimization:** Refactoring and improvements are ongoing.
-- **Enhancements:** Further refinements based on user feedback.
-- **Expansion:** Exploring additional training modules.
