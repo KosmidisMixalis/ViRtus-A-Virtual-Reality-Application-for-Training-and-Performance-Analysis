@@ -235,14 +235,14 @@ n_groups = 3
 n_per_group = 20
 
 # Kruskal-Wallis results
-epsilon_train_time = 0.10  # Train Time ε²
+epsilon_train_time = 0.098  # Train Time ε²
 epsilon_errors = 0.21      # Real-World Errors ε²
 
 # ANOVA results
-eta_completion_time = 0.047  # Completion Time η²
+eta_completion_time = 0.048  # Completion Time η²
 
 # t-test results
-cohens_d_trainer_time = 4.361  # Trainer Time (G2 vs G3)
+cohens_d_trainer_time = 4.332  # Trainer Time (G2 vs G3)
 n_per_group_ttest = 20
 
 # ---- Calculate power ----
